@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DamLed93
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Damian Ledesma
+- 👀 I’m interested in Java programming
 - 🌱 I’m currently learning English and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
